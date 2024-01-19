@@ -1,11 +1,14 @@
 # miniproject_harisenin
 
-nama : sulthoni dap
+Nama : sulthoni dap
+
 email : sulthonidap@gmail.com
 
-# pelacak buku favorit
+# Pelacak buku favorit
+Techstack :
 
-- Techstack
-api : golang
-frontend : if ga sibuk ? < react + vite /> : < html biasa/>
-database : mysql
+api => golang
+
+frontend => if ga sibuk ? < react + vite /> : < html biasa/>
+
+database => mysql
